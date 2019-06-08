@@ -1,1 +1,3 @@
 # Capstone-Project-for-Electrification
+
+ This capstone project will give you a taste of what data scientists go through in real life when working with data. This is a Non-Commercial Project for Suggesting Developing Countries Like India by predicting power(electricity) requirement of them in future by using Machine Learning and visualize power requirement of all over world in the Choropleth Maps based on their requirement predicted.Also Clear description of power produced in world from different sectors like Fossil Fuels,Renewable Energy etc. and suggesting the need for reducing the power from Fossil fuels and to increase power from Renewable resources.
